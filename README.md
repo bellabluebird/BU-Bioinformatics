@@ -1,5 +1,12 @@
-# BF550
-Selected Assignments from BU CDSBF 550: Machine Learning and Python
+# BU Bioinformatics
+Selected Assignments from my graduate curriculum at BU in their Bioinformatics MS program
 
-hw3 demonstrates my ability to model a simple situation and draw conclusions from data. 
-the first project involves solving problems from the rosalind problem set, using python to analyze genetic data.
+## assignment descriptions
+
+### CDSBF 550: Python Programming & Machine Learning
+* PROJ2: running comprehensive analysis and re-creating figures from a published bioinformatics paper
+* PROJ1: solving problems from the rosalind problem set
+* HW3: solving a modelling program computationally
+
+### CDSBF 591-R: R Programming for Bioinformatics
+* FINAL_PROJ: creating an RShiny app that conducts differential expression analysis on RNA-seq data
