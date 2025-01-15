@@ -14,7 +14,6 @@ CODON_TABLE = {
     'GGG': 'G', 'UAA': 'Stop', 'UAG': 'Stop', 'UGA': 'Stop'
 }
 
-
 #task 1 ------
 def HammingDistance(s: str, t: str) -> int:
     # verify input: check if s and t are the same length
