@@ -4,10 +4,8 @@ Consider a one-dimensional random walker that can move every second. With probab
 to the left, with probability pr = 1/3 it moves to right, and with probability ps = 1/3 it rests/stays and does
 not move. Assuming at time t = 0, the random walker is at x = 0, plot the probability density function and
 the cumulative probability function for t = 10, t = 100, and t = 1000 seconds. Make just two plots; each
-showing all three time points. Remember that you need to simulate random walks many times to get good
-statistics. Make the same two plots for pl = 0, pr = 1/2, and ps = 1/2. Do you understand why these plots
-look different? The plots that you make should be designed well. For example, they should label curves,
-axes, etc.
+showing all three time points.  Do you understand why these plots look different? The plots that you make 
+should be designed well. For example, they should label curves, axes, etc.
 
 Steps:
     1. create a random walk: variables will need to be adjustable
@@ -90,7 +88,7 @@ def plot_distributions(positions, time_points, title, filename_prefix=None):
     plt.show()
 
 
-# Parameters
+# parameters
 time_points = [10, 100, 1000]
 num_simulations = 10000  # the higher the number, the tigther the curves; 1,000 worked well for me
 
