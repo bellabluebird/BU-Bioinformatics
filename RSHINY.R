@@ -1,6 +1,7 @@
 # RNA-Seq Analysis App
 # written for CDSBF 591-R
 # code written by: Bella Pfeiffer
+# analysis designed for use on the following dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810
 # date: 17 December 2024
 
 # loading all the packages we need for data analysis and visualization
